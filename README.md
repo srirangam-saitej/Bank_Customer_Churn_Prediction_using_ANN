@@ -2,7 +2,7 @@
 Built an end-to-end binary classification model using an Artificial Neural Network (ANN) to predict customer churn in a banking dataset. The project includes data preprocessing, feature engineering, model training, and deployment using Streamlit.
 
 ## Live Demo
-🔗 [Open Streamlit App](https://your-streamlit-app-link.streamlit.app)
+🔗 [Open Streamlit App](https://bankcustomerchurnpredictionusingann-5pg5wuugrvuuxkeebxtwer.streamlit.app/)
 ***
 ## Architectural Diagram
 ![Architecture Design](https://github.com/srirangam-saitej/Bank_Customer_Churn_Prediction_using_ANN/blob/7e78c6bb185d312e70ba5b428d2f92b1a037c860/flow_diagram.png)
