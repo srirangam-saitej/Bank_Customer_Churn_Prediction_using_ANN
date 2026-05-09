@@ -7,8 +7,8 @@ import pandas as pd
 import pickle
 
 #Load the trained Model
-# model=tf.keras.models.load_model('model.h5')
-model=tf.keras.models.load_model('model.keras')
+# model=tf.keras.models.load_model('model.keras')
+model=tf.keras.models.load_model('model.h5')
 
 
 # Load the encoders(Geo,Gender) and scaler
