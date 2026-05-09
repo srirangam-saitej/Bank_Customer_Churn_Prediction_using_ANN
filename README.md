@@ -24,11 +24,11 @@ Integrate the model with a Streamlit application
 Deploy the application on Streamlit Cloud
 ***
 ## Tech Stack
-Python
-Pandas & NumPy
-Scikit-learn
-TensorFlow / Keras
-Streamlit
+* Python
+* Pandas & NumPy
+* Scikit-learn
+* TensorFlow / Keras
+* Streamlit
 ***
 ## Final Outcome
 The final application allows users to provide customer details through a Streamlit interface and predicts whether the customer is likely to churn or continue with the bank. The project demonstrates an end-to-end deep learning implementation including preprocessing, model training, serialization, and deployment.
